@@ -33,7 +33,7 @@ public class DebuggingExample {
 
     public void addName(List<String> names, String nameToAdd) {
         names.add(nameToAdd); // Use Step Into here
-        System.out.println("Added name: " + nameToAdd);
+        System.out.println("Añadir nombre: " + nameToAdd);
     }
 
     public boolean removeName(List<String> names, String nameToRemove) {
