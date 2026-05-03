@@ -2,7 +2,6 @@
 
 ## Ejercicio 3
 
-\### Prodrui1601
+### prodrui1601
 
-Modificación del fichero README.md, apartado d del ejercicio 3 de la parte 2.
-
+Modificación del fichero README.md, apartado d del ejercicio 3 de la tarea 2.
